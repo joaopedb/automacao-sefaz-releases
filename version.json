@@ -1,6 +1,6 @@
 {
     "versao_atual": "1.4.1",
     "url_download": "https://github.com/joaopedb/automacao-sefaz-releases/releases/download/v1.4.1/Baixar.xmls.-.PB.exe",
-    "sha256": "<hash do passo 3>",
+    "sha256": "69c32df964ed56dcb06b511d3a0b4a0ab32941f7e25e3559927141ae5558a246",
     "notas_atualizacao": "Adaptação ao novo layout do portal da SEFAZ-PB (NF-e, NFC-e e CT-e)."
 }
