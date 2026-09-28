@@ -1,5 +1,6 @@
 {
-  "versao_atual": "1.2.1",
-  "url_download": "https://github.com/joaopedb/automacao-sefaz-releases/releases/download/v1.4.0/Baixar.xmls.-.PB.exe",
-  "notas_atualizacao": "Verificação de enviar mensagens na fase 1 garantida."
+    "versao_atual": "1.4.1",
+    "url_download": "https://github.com/joaopedb/automacao-sefaz-releases/releases/download/v1.4.1/Baixar.xmls.-.PB.exe",
+    "sha256": "<hash do passo 3>",
+    "notas_atualizacao": "Adaptação ao novo layout do portal da SEFAZ-PB (NF-e, NFC-e e CT-e)."
 }
